@@ -1,0 +1,46 @@
+#title {
+    background-color: rgb(220, 14, 14);
+    font-family:cursive;
+    color:white;
+   font-size: 100px;
+    text-align: center;
+
+}
+
+.kool {
+    background-color: green;
+    border: solid black 5px;
+    text-align: center;
+    color: black;
+    padding: 3px;
+    margin-top: 50px;
+    margin-right: auto;
+    width: 200px;
+    display:inline-block;
+}
+.rice {
+    background-color: yellow;
+    border: solid black 5px;
+    text-align: center;
+    color:black;
+    padding: 3px;
+    margin-top: 50px;
+    margin-right: auto;
+    width: 200px;
+    display:inline-block;
+}
+.soup {
+    background-color: red;
+    border: solid black 5px;
+    text-align: center;
+    color:black;
+    padding: auto;
+    margin-top: 50px;
+    display:inline-block;
+    width: 200px;
+    padding: 3px;
+}
+
+.text {
+    background-color: purple;
+}
